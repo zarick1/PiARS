@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameReg">Username:</string>
+    <string name="passwordReg">Password:</string>
+    <string name="emailReg">Email:</string>
+    <string name="welcome">WELCOME</string>
+    <string name="newList">NEW LIST</string>
+    <string name="seeMyLists">SEE MY LISTS</string>
+    <string name="ok">OK</string>
+    <string name="naslovListe">Naslov liste</string>
+    <string name="shareList">Share list:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">SAVE</string>
+    <string name="naslov">NASLOV</string>
+    <string name="this_list_is_empty">List is Empty</string>
+    <string name="listRowNaslov">Naslov:</string>
+    <string name="listRowShared">Shared:</string>
+    <string name="add">ADD</string>
+    <string name="nazivZadatka">Naziv zadatka</string>
+    <string name="home">HOME</string>
+    <string name="seeSharedLists">SEE SHARED LISTS</string>
+    <string name="refresh">REFRESH</string>
+</resources>
